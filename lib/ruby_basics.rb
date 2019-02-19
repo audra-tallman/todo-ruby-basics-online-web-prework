@@ -27,5 +27,5 @@ def pizza_party(topping = "cheese")
 end
 
 def topping(pizza = "pepperoni")
- puts topping = #{pizza}
+ puts topping = pizza
 end
