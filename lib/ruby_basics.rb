@@ -22,10 +22,10 @@ def last_evaluated_value
   "expert"
 end
 
-def pizza_party(topping = "cheese")
-puts pizza_party
+def pizza_party(topping)
+  pizza_party(topping = "cheese")
 end
 
-def pizza_party(pizza)
- puts topping = pizza
+def pizza_party(topping)
+  puts pizza_party(pepperoni)
 end
